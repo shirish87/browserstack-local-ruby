@@ -45,3 +45,4 @@ To build gem, `rake build`.
 ## Tests
 
 To run the test suite run, `rake test`.
+
